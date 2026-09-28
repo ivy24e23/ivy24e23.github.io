@@ -1,0 +1,4052 @@
+{
+  "type": "FeatureCollection",
+  "source": "synthetic",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.62,
+        "id": "slope-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 2.0,
+        "id": "slope-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 3.48,
+        "id": "slope-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 4.96,
+        "id": "slope-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 6.31,
+        "id": "slope-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 7.44,
+        "id": "slope-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 8.29,
+        "id": "slope-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 8.82,
+        "id": "slope-8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.03,
+        "id": "slope-9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 8.99,
+        "id": "slope-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 8.77,
+        "id": "slope-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 8.48,
+        "id": "slope-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 8.22,
+        "id": "slope-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 8.12,
+        "id": "slope-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 8.26,
+        "id": "slope-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.135,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 8.7,
+        "id": "slope-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.23,
+        "id": "slope-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 1.41,
+        "id": "slope-18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 2.79,
+        "id": "slope-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 4.27,
+        "id": "slope-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 5.75,
+        "id": "slope-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 7.1,
+        "id": "slope-22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 8.23,
+        "id": "slope-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.08,
+        "id": "slope-24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.61,
+        "id": "slope-25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.83,
+        "id": "slope-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 9.78,
+        "id": "slope-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 9.56,
+        "id": "slope-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 9.27,
+        "id": "slope-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 9.01,
+        "id": "slope-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 8.91,
+        "id": "slope-31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.05,
+        "id": "slope-32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13560000000001,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.49,
+        "id": "slope-33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.71,
+        "id": "slope-34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 1.89,
+        "id": "slope-35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 3.27,
+        "id": "slope-36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 4.76,
+        "id": "slope-37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 6.23,
+        "id": "slope-38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 7.59,
+        "id": "slope-39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 8.72,
+        "id": "slope-40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.56,
+        "id": "slope-41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 10.09,
+        "id": "slope-42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 10.31,
+        "id": "slope-43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 10.27,
+        "id": "slope-44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 10.04,
+        "id": "slope-45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 9.75,
+        "id": "slope-46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 9.5,
+        "id": "slope-47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.4,
+        "id": "slope-48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.54,
+        "id": "slope-49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13620000000002,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.98,
+        "id": "slope-50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.83,
+        "id": "slope-51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 2.01,
+        "id": "slope-52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 3.39,
+        "id": "slope-53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 4.87,
+        "id": "slope-54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 6.35,
+        "id": "slope-55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 7.7,
+        "id": "slope-56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 8.83,
+        "id": "slope-57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.68,
+        "id": "slope-58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 10.21,
+        "id": "slope-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 10.42,
+        "id": "slope-60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 10.38,
+        "id": "slope-61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 10.16,
+        "id": "slope-62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 9.87,
+        "id": "slope-63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 9.61,
+        "id": "slope-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.51,
+        "id": "slope-65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.65,
+        "id": "slope-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13680000000002,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 10.09,
+        "id": "slope-67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.56,
+        "id": "slope-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 1.74,
+        "id": "slope-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 3.12,
+        "id": "slope-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 4.6,
+        "id": "slope-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 6.08,
+        "id": "slope-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 7.43,
+        "id": "slope-73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 8.57,
+        "id": "slope-74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.41,
+        "id": "slope-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.94,
+        "id": "slope-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 10.16,
+        "id": "slope-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 10.11,
+        "id": "slope-78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 9.89,
+        "id": "slope-79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 9.6,
+        "id": "slope-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 9.35,
+        "id": "slope-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.24,
+        "id": "slope-82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.38,
+        "id": "slope-83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13740000000003,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.82,
+        "id": "slope-84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 1.12,
+        "id": "slope-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 2.5,
+        "id": "slope-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 3.99,
+        "id": "slope-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 5.46,
+        "id": "slope-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 6.81,
+        "id": "slope-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 7.95,
+        "id": "slope-91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 8.79,
+        "id": "slope-92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.32,
+        "id": "slope-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 9.54,
+        "id": "slope-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 9.5,
+        "id": "slope-95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 9.27,
+        "id": "slope-96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 8.98,
+        "id": "slope-97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 8.73,
+        "id": "slope-98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 8.63,
+        "id": "slope-99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 8.77,
+        "id": "slope-100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13800000000003,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 9.21,
+        "id": "slope-101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.23,
+        "id": "slope-103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 1.61,
+        "id": "slope-104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 3.1,
+        "id": "slope-105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 4.57,
+        "id": "slope-106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 5.93,
+        "id": "slope-107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 7.06,
+        "id": "slope-108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 7.91,
+        "id": "slope-109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 8.43,
+        "id": "slope-110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 8.65,
+        "id": "slope-111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 8.61,
+        "id": "slope-112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 8.39,
+        "id": "slope-113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 8.09,
+        "id": "slope-114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 7.84,
+        "id": "slope-115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 7.74,
+        "id": "slope-116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 7.88,
+        "id": "slope-117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13860000000004,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 8.32,
+        "id": "slope-118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.57,
+        "id": "slope-121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 2.06,
+        "id": "slope-122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 3.53,
+        "id": "slope-123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 4.88,
+        "id": "slope-124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 6.02,
+        "id": "slope-125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 6.86,
+        "id": "slope-126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 7.39,
+        "id": "slope-127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 7.61,
+        "id": "slope-128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 7.56,
+        "id": "slope-129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 7.34,
+        "id": "slope-130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 7.05,
+        "id": "slope-131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 6.8,
+        "id": "slope-132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 6.7,
+        "id": "slope-133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 6.83,
+        "id": "slope-134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13920000000005,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 7.27,
+        "id": "slope-135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 0.99,
+        "id": "slope-139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 2.46,
+        "id": "slope-140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 3.82,
+        "id": "slope-141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 4.95,
+        "id": "slope-142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 5.8,
+        "id": "slope-143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 6.32,
+        "id": "slope-144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 6.54,
+        "id": "slope-145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 6.5,
+        "id": "slope-146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 6.28,
+        "id": "slope-147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 5.98,
+        "id": "slope-148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 5.73,
+        "id": "slope-149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 5.63,
+        "id": "slope-150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 5.77,
+        "id": "slope-151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13980000000005,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 6.21,
+        "id": "slope-152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 0.04,
+        "id": "slope-156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 1.51,
+        "id": "slope-157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 2.87,
+        "id": "slope-158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 4.0,
+        "id": "slope-159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.84,
+        "id": "slope-160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 5.37,
+        "id": "slope-161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 5.59,
+        "id": "slope-162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 5.55,
+        "id": "slope-163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 5.32,
+        "id": "slope-164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 5.03,
+        "id": "slope-165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 4.78,
+        "id": "slope-166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.68,
+        "id": "slope-167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.82,
+        "id": "slope-168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14040000000006,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 5.26,
+        "id": "slope-169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 0.8,
+        "id": "slope-174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 2.15,
+        "id": "slope-175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 3.28,
+        "id": "slope-176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.13,
+        "id": "slope-177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.66,
+        "id": "slope-178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.87,
+        "id": "slope-179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 4.83,
+        "id": "slope-180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 4.61,
+        "id": "slope-181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 4.31,
+        "id": "slope-182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 4.06,
+        "id": "slope-183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 3.96,
+        "id": "slope-184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.1,
+        "id": "slope-185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14100000000006,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.54,
+        "id": "slope-186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 0.41,
+        "id": "slope-191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 1.76,
+        "id": "slope-192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 2.9,
+        "id": "slope-193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 3.74,
+        "id": "slope-194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.27,
+        "id": "slope-195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.49,
+        "id": "slope-196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 4.44,
+        "id": "slope-197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 4.22,
+        "id": "slope-198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 3.93,
+        "id": "slope-199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 3.67,
+        "id": "slope-200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 3.57,
+        "id": "slope-201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 3.71,
+        "id": "slope-202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14160000000007,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.15,
+        "id": "slope-203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 0.4,
+        "id": "slope-208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 1.75,
+        "id": "slope-209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 2.89,
+        "id": "slope-210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 3.73,
+        "id": "slope-211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.26,
+        "id": "slope-212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.48,
+        "id": "slope-213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 4.43,
+        "id": "slope-214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 4.21,
+        "id": "slope-215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 3.92,
+        "id": "slope-216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 3.67,
+        "id": "slope-217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 3.56,
+        "id": "slope-218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 3.7,
+        "id": "slope-219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14220000000007,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.14,
+        "id": "slope-220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 0.77,
+        "id": "slope-225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 2.12,
+        "id": "slope-226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 3.25,
+        "id": "slope-227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.1,
+        "id": "slope-228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.63,
+        "id": "slope-229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.85,
+        "id": "slope-230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 4.8,
+        "id": "slope-231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 4.58,
+        "id": "slope-232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 4.29,
+        "id": "slope-233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 4.03,
+        "id": "slope-234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 3.93,
+        "id": "slope-235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.07,
+        "id": "slope-236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14280000000008,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.51,
+        "id": "slope-237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 1.47,
+        "id": "slope-242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 2.82,
+        "id": "slope-243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 3.96,
+        "id": "slope-244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 4.8,
+        "id": "slope-245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 5.33,
+        "id": "slope-246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 5.55,
+        "id": "slope-247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 5.5,
+        "id": "slope-248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 5.28,
+        "id": "slope-249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 4.99,
+        "id": "slope-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 4.74,
+        "id": "slope-251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.63,
+        "id": "slope-252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 4.77,
+        "id": "slope-253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14340000000009,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 5.21,
+        "id": "slope-254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 0.94,
+        "id": "slope-258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 2.41,
+        "id": "slope-259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 3.77,
+        "id": "slope-260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 4.9,
+        "id": "slope-261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 5.74,
+        "id": "slope-262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 6.27,
+        "id": "slope-263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 6.49,
+        "id": "slope-264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 6.45,
+        "id": "slope-265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 6.22,
+        "id": "slope-266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 5.93,
+        "id": "slope-267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 5.68,
+        "id": "slope-268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 5.58,
+        "id": "slope-269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 5.72,
+        "id": "slope-270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14400000000009,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 6.16,
+        "id": "slope-271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.28
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.2806
+        ]
+      },
+      "properties": {
+        "slope": 0.0,
+        "id": "slope-273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.2812
+        ]
+      },
+      "properties": {
+        "slope": 0.52,
+        "id": "slope-274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.281799999999997
+        ]
+      },
+      "properties": {
+        "slope": 2.0,
+        "id": "slope-275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.282399999999996
+        ]
+      },
+      "properties": {
+        "slope": 3.48,
+        "id": "slope-276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.282999999999994
+        ]
+      },
+      "properties": {
+        "slope": 4.83,
+        "id": "slope-277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.283599999999993
+        ]
+      },
+      "properties": {
+        "slope": 5.96,
+        "id": "slope-278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.28419999999999
+        ]
+      },
+      "properties": {
+        "slope": 6.81,
+        "id": "slope-279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.28479999999999
+        ]
+      },
+      "properties": {
+        "slope": 7.34,
+        "id": "slope-280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.28539999999999
+        ]
+      },
+      "properties": {
+        "slope": 7.55,
+        "id": "slope-281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.285999999999987
+        ]
+      },
+      "properties": {
+        "slope": 7.51,
+        "id": "slope-282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.286599999999986
+        ]
+      },
+      "properties": {
+        "slope": 7.29,
+        "id": "slope-283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.287199999999984
+        ]
+      },
+      "properties": {
+        "slope": 6.99,
+        "id": "slope-284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.287799999999983
+        ]
+      },
+      "properties": {
+        "slope": 6.74,
+        "id": "slope-285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.28839999999998
+        ]
+      },
+      "properties": {
+        "slope": 6.64,
+        "id": "slope-286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.28899999999998
+        ]
+      },
+      "properties": {
+        "slope": 6.78,
+        "id": "slope-287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1446000000001,
+          22.28959999999998
+        ]
+      },
+      "properties": {
+        "slope": 7.22,
+        "id": "slope-288"
+      }
+    }
+  ]
+}

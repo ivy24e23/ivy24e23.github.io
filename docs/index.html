@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0b5fa5" />
+  <title>HKU 無障礙輔助地圖</title>
+  <link rel="stylesheet" href="./vendor/maplibre-gl.css" />
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body data-font="normal">
+  <div id="app">
+    <header class="topbar">
+      <div class="brand" data-i18n="app.title">♿ HKU 無障礙地圖</div>
+      <button id="btn-settings" class="icon-btn" aria-label="設定">⚙</button>
+    </header>
+
+    <div id="map"></div>
+
+    <!-- Weather hint (rainfall nowcast + slip warning) -->
+    <div id="weather-bar" class="weather-bar hidden">
+      <div class="wb-icon" id="wb-icon">☀️</div>
+      <div class="wb-main">
+        <div class="wb-row">
+          <span class="wb-status" id="wb-status"></span>
+          <span class="wb-mm" id="wb-mm"></span>
+        </div>
+        <div class="wb-text" id="wb-text"></div>
+        <div class="wb-slip hidden" id="wb-slip"><b id="wb-slip-title"></b> <span id="wb-slip-msg"></span></div>
+      </div>
+      <button class="wb-close" id="wb-close" aria-label="close">✕</button>
+    </div>
+
+    <!-- From / To inputs -->
+    <div class="from-to-bar">
+      <div class="ft-input-row" id="row-start">
+        <span class="ft-dot start"></span>
+        <input id="input-start" type="text" autocomplete="off"
+               data-i18n-ph="input.start" placeholder="輸入起點，例如「本部大樓」" />
+        <button id="btn-mic-start" class="ft-mic" aria-label="語音輸入起點">🎤</button>
+      </div>
+      <div class="ft-input-row" id="row-end">
+        <span class="ft-dot end"></span>
+        <input id="input-end" type="text" autocomplete="off"
+               data-i18n-ph="input.end" placeholder="輸入終點，例如「圖書館」" />
+        <button id="btn-mic-end" class="ft-mic" aria-label="語音輸入終點">🎤</button>
+      </div>
+      <button id="btn-route" class="ft-route-btn" data-i18n="btn.route">搜尋路線</button>
+    </div>
+
+    <div class="mode-row">
+      <button id="btn-locate" class="chip">📍 <span data-i18n="chip.mylocation">我的位置</span></button>
+      <button id="btn-pick-start" class="chip"><span data-i18n="chip.start">起點</span></button>
+      <button id="btn-pick-end" class="chip"><span data-i18n="chip.end">終點</span></button>
+      <button id="btn-slope" class="chip"><span data-i18n="chip.slope">坡度圖</span></button>
+      <button id="btn-fac" class="chip"><span data-i18n="chip.fac">🛗 設施</span></button>
+      <button id="btn-rain" class="chip"><span data-i18n="chip.rain">🌧 降雨</span></button>
+      <button id="btn-clear" class="chip"><span data-i18n="chip.clear">清除</span></button>
+    </div>
+
+    <!-- Facility legend / filter (toggled by the 設施 chip) -->
+    <div id="fac-legend" class="fac-legend hidden">
+      <div class="fac-legend-title" data-i18n="fac.legend">無障礙設施</div>
+      <label class="fac-item"><input type="checkbox" class="fac-filter" value="elevator" checked><span class="fac-ic" style="background:#2196F3">🛗</span><span data-i18n="fac.type.elevator">升降機</span></label>
+      <label class="fac-item"><input type="checkbox" class="fac-filter" value="ramp" checked><span class="fac-ic" style="background:#4CAF50">♿</span><span data-i18n="fac.type.ramp">坡道</span></label>
+      <label class="fac-item"><input type="checkbox" class="fac-filter" value="accessible_entrance" checked><span class="fac-ic" style="background:#9C27B0">🚪</span><span data-i18n="fac.type.accessible_entrance">無障礙入口</span></label>
+      <label class="fac-item"><input type="checkbox" class="fac-filter" value="accessible_toilet" checked><span class="fac-ic" style="background:#00BCD4">🚻</span><span data-i18n="fac.type.accessible_toilet">無障礙廁所</span></label>
+      <label class="fac-item"><input type="checkbox" class="fac-filter" value="disabled_parking" checked><span class="fac-ic" style="background:#FF9800">🅿️</span><span data-i18n="fac.type.disabled_parking">傷健泊位</span></label>
+    </div>
+
+    <div id="status-banner" class="banner hidden"></div>
+
+    <section id="route-panel" class="sheet hidden">
+      <div class="sheet-handle"></div>
+      <div id="from-to" class="from-to hidden">
+        <div class="ft-row"><span class="ft-dot start"></span><span id="ft-start" class="ft-text">…</span></div>
+        <div class="ft-arrow">→</div>
+        <div class="ft-row"><span class="ft-dot end"></span><span id="ft-end" class="ft-text">…</span></div>
+      </div>
+      <div id="route-list"></div>
+      <div id="route-detail" class="hidden">
+        <button id="btn-back-list" class="link-btn" data-i18n="route.backToList">← 返回路線列表</button>
+        <div id="route-explain" class="explain"></div>
+        <div id="turn-list" class="turns"></div>
+        <div id="route-nearby" class="nearby"></div>
+        <div class="voice-row">
+          <button id="btn-nav" class="chip primary-chip"><span data-i18n="route.startNav">🧭 開始步行導航</span></button>
+        </div>
+        <div class="voice-row">
+          <button id="btn-voice" class="chip"><span data-i18n="route.voice">🔊 語音導航</span></button>
+          <button id="btn-report" class="chip"><span data-i18n="route.report">⚠ 回報問題</span></button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Walking navigation overlay -->
+    <section id="nav-panel" class="nav hidden">
+      <div class="nav-card">
+        <div class="nav-head">
+          <span id="nav-title" data-i18n="nav.title">步行導航中</span>
+          <button id="btn-nav-exit" class="chip">⏹ <span data-i18n="nav.exit">結束</span></button>
+        </div>
+        <div class="nav-next">
+          <div id="nav-turn-icon" class="nav-turn-icon">⬆</div>
+          <div class="nav-next-body">
+            <div id="nav-next-instr" class="nav-next-instr">直行</div>
+            <div id="nav-next-dist" class="nav-next-dist">120 米</div>
+          </div>
+        </div>
+        <div class="nav-meta">
+          <span id="nav-remaining">剩餘 673 米</span>
+          <span id="nav-eta">約 9 分鐘</span>
+        </div>
+        <div class="voice-row" style="margin-top:8px">
+          <button id="btn-nav-voice" class="chip active">🔊 <span data-i18n="nav.voice">語音</span></button>
+        </div>
+      </div>
+    </section>
+
+    <div id="settings-modal" class="modal hidden">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h2 data-i18n="settings.title">偏好設定</h2>
+          <button id="btn-close-settings-x" class="modal-close" aria-label="關閉">✕</button>
+        </div>
+        <label class="row"><span data-i18n="set.avoidStairs">避開樓梯／扶梯</span><input type="checkbox" id="set-avoid-stairs" checked></label>
+        <label class="row"><span data-i18n="set.preferRamps">偏好坡道</span><input type="checkbox" id="set-prefer-ramps" checked></label>
+        <label class="row"><span data-i18n="set.preferElevators">偏好升降機</span><input type="checkbox" id="set-prefer-elevators" checked></label>
+        <label class="row"><span data-i18n="set.maxSlope">可接受最大坡度</span>
+          <select id="set-max-slope"><option>5</option><option selected>8</option><option>10</option><option>15</option></select> %
+        </label>
+        <label class="row"><span data-i18n="set.voice">語音導航</span><input type="checkbox" id="set-voice"></label>
+        <label class="row"><span data-i18n="set.lang">語言</span>
+          <select id="set-lang">
+            <option value="zh-HK" selected>繁體中文</option>
+            <option value="zh-CN">簡體中文</option>
+            <option value="en">English</option>
+          </select>
+        </label>
+        <label class="row"><span data-i18n="set.contrast">高對比模式</span><input type="checkbox" id="set-contrast"></label>
+        <label class="row"><span data-i18n="set.font">字體大小</span>
+          <select id="set-font">
+            <option value="normal" selected>正常</option>
+            <option value="large">大</option>
+            <option value="xlarge">特大</option>
+          </select>
+        </label>
+        <button id="btn-close-settings" class="primary-btn full" data-i18n="set.done">完成</button>
+        <div id="lan-wrap" class="lan-in-modal hidden">
+          <div class="lan-hint" data-i18n="lan.hint">手機請用同一 Wi-Fi 開啟以下其中一個網址（建議用 Safari）：</div>
+          <div id="lan-list" class="lan-list"></div>
+          <div class="lan-note" data-i18n="lan.note">若打不開：① 手機與電腦必須連同一個 Wi-Fi（不要用「來賓網絡」）；② 若電腦的網絡是來自手機熱點，請改用熱點 gateway 地址；③ 瀏覽器出現證書警告請點「進階 / 繼續」接受。手機 GPS 定位必須 https 才會授權。</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div><span id="loading-text" data-i18n="loading.route">載入中…</span>
+    </div>
+  </div>
+
+  <script src="./vendor/maplibre-gl.js"></script>
+  <script src="./js/i18n.js"></script>
+  <script src="./js/coords.js"></script>
+  <script src="./js/config.js"></script>
+  <script src="./js/api.js"></script>
+  <script src="./js/map.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>
